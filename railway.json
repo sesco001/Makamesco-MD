@@ -1,0 +1,16 @@
+{
+  "name": "PEACEMAKER-MD",
+  "description": "For deploying PEACEMAKER-MD.",
+  "repository": "https://github.com/Peacemaker-cyber/Peacemaker-md",
+  "build": {
+    "commands": {
+      "install": "yarn install",
+      "start": "yarn start"
+    }
+  },
+  "envs": {
+    "SESSION_ID": {
+      "description": "Put Your Session Id"
+    }
+  }
+}
