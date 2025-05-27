@@ -23,11 +23,11 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/degy3b.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://imgur.com/a/i8W84pP",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "PEACEMAKER MD",
+BOT_NAME: process.env.BOT_NAME || "MAKAMESCO MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "MAKAMESCO MD",
 // type sticker pack name 
@@ -41,9 +41,9 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "254739285768",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "PEACEMAKER",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© powered by Peacemaker md*",
+DESCRIPTION: process.env.DESCRIPTION || "*© powered by makamesco md*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/degy3b.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://imgur.com/a/i8W84pP",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> AM ACTIVE *MAKAMESCO MD*⚡",
 // add alive msg here 
